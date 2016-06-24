@@ -2,7 +2,7 @@
 
 A roleplaying game.
 
-This game is developed using git. Join in on GitHub.
+This game is openly developed. [Join in on GitHub](https://github.com/acodispo/fate-atom-rpg).
 
 ## The Basic Game
 
