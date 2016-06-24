@@ -46,7 +46,7 @@ If Fate Points are being used (see Supplement 1, above), you have an unlimited s
 
 If the dice are rolled and you as GM feel that an aspect comes into play in such a way as to negatively effect a character, offer that character's player a fate point. If they accept it, subtract 2 from their total.
 
-## Supplement 3: Alternatives to Fudge Dice
+## Appendix 1: Alternatives to Fudge Dice
 
 If you don't have any Fudge dice, you can use the every-day sort of six-sided dice. Just read 1 and 2 as -, 3 and 4 as blank, and 5 and 6 as +.
 
